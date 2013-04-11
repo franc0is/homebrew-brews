@@ -1,6 +1,6 @@
 require 'formula'
 
-class OpenOcd < Formula
+class Openocd < Formula
   homepage 'http://sourceforge.net/projects/openocd/'
   url 'http://downloads.sourceforge.net/project/openocd/openocd/0.6.1/openocd-0.6.1.tar.bz2'
   sha1 'b286dd9c0c6ca5cc7a76d25e404ad99a488e2c61'
